@@ -1,4 +1,11 @@
-# karma-electron [![Build status](https://travis-ci.org/twolfson/karma-electron.svg?branch=master)](https://travis-ci.org/twolfson/karma-electron) [![Build status](https://ci.appveyor.com/api/projects/status/urgpvcip7kl9q2ih/branch/master?svg=true)](https://ci.appveyor.com/project/twolfson/karma-electron-launcher/branch/master)
+# karma-electron
+
+---
+
+Patched version of `karma-electron` to support Electron >= v5.
+Code from https://github.com/marktext/marktext/tree/develop/packages/karma-electron
+
+---
 
 [Karma][] launcher and preprocessor for [Electron][]
 
